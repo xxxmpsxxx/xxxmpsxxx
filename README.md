@@ -1,16 +1,13 @@
-### Hi there 👋
+# Marcus Paulo da Silva Augusto
 
-<!--
-**xxxmpsxxx/xxxmpsxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou um Developer .NET :computer:
+<br/> Apaixonado por tecnologias e soluções disruptivas 🧠
+<br/> Um grande entusiasta de ## Hackatons
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :purple_heart: &nbsp; Buscando colaborar com projetos .NET (Web, Mobile, Desktop).
+ <br/> :computer: &nbsp; Minha stack: Asp.Net, C#, VB.NET, JS & Xaramin
+ <br/> 💬  &nbsp; Sobre mim: Curto games (caixista nato 🎮) e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MarcusPaulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-paulo-augusto-75a5628b/)](https://www.linkedin.com/in/marcus-paulo-augusto-75a5628b/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-MarcusPaulo-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mandeemailpramim@gmail.com)](mailto:mandeemailpramim@gmail.com)
